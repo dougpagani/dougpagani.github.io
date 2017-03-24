@@ -511,6 +511,8 @@ h2,
 h3,
 .h3 {
   font-size: 24px;
+  margin-left: 8em;
+  margin-right: 8em
 }
 
 h4,
